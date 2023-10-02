@@ -1,2 +1,2 @@
 # Stochastic-PDE-code
-Simulating stock market overtime
+Based on book "Introduction to Computational Stochastic PDEs" CUP (2014). 
